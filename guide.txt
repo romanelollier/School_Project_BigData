@@ -1,0 +1,3 @@
+Problématique (formuler une question) :
+A l'aide des données de TripAdvisor, quel(s) serice proposer dans son restaurant afin d'être populaire ?
+
